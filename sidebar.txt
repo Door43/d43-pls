@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pls:home|Door43 (pls)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pls|d43-pls repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pls/archive/master.zip|d43-pls.zip]]
+
+**Recent Changes**
+{{changes>ns = pls}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pls|Ethnologue data]]
+
